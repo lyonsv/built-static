@@ -17,10 +17,6 @@
     margin:2% 2%;
     width:200px;
   }
-  footer{
-    height:100%;
-    background:white;
-  }
   ol{
     display:inline-block;
   }
@@ -39,6 +35,15 @@
     width:49%;
     margin:2% 0;
     float:right;
+  }
+
+  .btn-small{
+    font-size:0.8em;
+    border:$red 2px solid;
+    padding:0.5em 2em;
+    color:$red;
+    margin:20px auto 0 auto;
+
   }
   button{
     display:block;

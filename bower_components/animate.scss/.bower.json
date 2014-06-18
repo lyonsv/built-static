@@ -1,0 +1,14 @@
+{
+  "name": "animate.scss",
+  "homepage": "https://github.com/ianstormtaylor/animate.sass",
+  "_release": "62aebcf7c8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "62aebcf7c8bf617dcaea25fc8f3f44d558f2b43e"
+  },
+  "_source": "git://github.com/ianstormtaylor/animate.sass.git",
+  "_target": "*",
+  "_originalSource": "animate.scss",
+  "_direct": true
+}
